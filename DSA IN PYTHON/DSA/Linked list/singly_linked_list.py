@@ -91,12 +91,13 @@ class SLLIteral:
         data = self.current.item
         self.current = self.current.next 
         return data
-# mylist = SLL()
-# mylist.insert_at_start(20)
-# mylist.insert_at_start(30)
-# mylist.insert_at_last(50)
-# mylist.insert_after(mylist.search(30), 25)
-# mylist.delete_item(50)
-# print()
-# mylist.print_list()
-# print() 
+        
+mylist = SLL()
+mylist.insert_at_start(20)
+mylist.insert_at_start(30)
+mylist.insert_at_last(50)
+mylist.insert_after(mylist.search(30), 25)
+mylist.delete_item(50)
+print()
+mylist.print_list()
+print() 
