@@ -76,7 +76,7 @@ DSA-in-Python
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DSA-in-Python.git
+git clone https://github.com/RITESH1260/DSA-in-Python.git
 ```
 
 Move into project
